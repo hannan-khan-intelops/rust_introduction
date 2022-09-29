@@ -4,8 +4,12 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ml_intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ml_intro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
