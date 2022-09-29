@@ -1,0 +1,54 @@
+﻿Rust Introduction
+Great language for systems building.
+Fans are called rustaceans.
+Rust provides memory safety via ownership & borrowing, along with the speed of low-level languages.
+Ownership makes sure that objects are dropped when not in use.
+Borrowing allows objects to be shared via a pointer system. Rust also uses the borrow checker to check if all rules are followed at compile time.
+Rust also has a package (aka crate) manager, called Cargo.
+
+
+To create a directory with a new project/package, use:
+        cargo new packageName
+This creates a new dir with the src file, and cargo.toml file which contains things like dependencies.
+To create an optimized release for production, use:
+        cargo build –release
+To create just a build, use:
+        cargo build
+        This builds the exe in the target folder.
+
+
+Vars are immutable by default. They can be made mutable by adding ‘mut’ to the declaration statement.
+
+
+You have ints, uints, floats, bools, chars, tuples, arrays (fixed lengths), vectors (variable length).
+
+
+Rust is statically typed, however the compiler can infer the type at compilation.
+
+
+Primitive strings are immutable, and fixed length.
+There is a String object that is growable (heap allocated). Used only when you need to modify or own string data.
+
+
+A tuple can only have 12 elements.
+
+
+Vectors are resizable arrays.
+
+
+Use “{:?}” to print out arrays in a string.
+
+
+In a function, if we dont use a semicolon, we are telling rust that the result of that line is what we want to return.
+
+
+Closures are small functions that can use the vars defined in their current environment/scope.
+
+
+Structs can be used to create custom data types. They can be used in a similar vein to classes via “impl”. Which allows you to define functions and use the self parameter of structs.
+
+
+Enums are types which have a few definite values.
+
+
+Match is similar to a switch.
