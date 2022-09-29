@@ -5,11 +5,13 @@
       <sourceFolder url="file://$MODULE_DIR$/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello_world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ml_intro/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ml_intro_simple_linreg/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/ml_intro/target" />
-      <excludeFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ml_intro_simple_LinReg1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ml_intro_simple_linreg/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,5 +1,5 @@
 [package]
-name = "ml_intro_simple_LinReg"
+name = "ml_intro_simple_linreg"
 version = "0.1.0"
 edition = "2021"
 
