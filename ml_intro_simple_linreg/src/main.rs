@@ -1,5 +1,3 @@
-mod simple_linear_regression;
-
 fn main() {
-    println!("Hello, world!");
+    println!("This is a simple linear regression model in Rust.");
 }

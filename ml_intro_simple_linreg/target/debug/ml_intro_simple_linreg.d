@@ -1,0 +1,1 @@
+C:\Users\AppsTek\ Corp\Desktop\sandbox\rust_introduction\ml_intro_simple_linreg\target\debug\ml_intro_simple_linreg.exe: C:\Users\AppsTek\ Corp\Desktop\sandbox\rust_introduction\ml_intro_simple_linreg\src\main.rs C:\Users\AppsTek\ Corp\Desktop\sandbox\rust_introduction\ml_intro_simple_linreg\src\simple_linear_regression.rs
